@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Services\\FitnessSolution.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Data\\FitnessSolution.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Data\\FitnessSolution.Data.csproj",
+        "projectName": "FitnessSolution.Data",
+        "projectPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Data\\FitnessSolution.Data.csproj",
+        "packagesPath": "C:\\Users\\VitalyBilevich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VitalyBilevich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\FitnessSolution.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\FitnessSolution.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\FitnessSolution.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\FitnessSolution.Infrastructure.csproj",
+        "projectName": "FitnessSolution.Infrastructure",
+        "projectPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\FitnessSolution.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\VitalyBilevich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VitalyBilevich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Services\\FitnessSolution.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Services\\FitnessSolution.Services.csproj",
+        "projectName": "FitnessSolution.Services",
+        "projectPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Services\\FitnessSolution.Services.csproj",
+        "packagesPath": "C:\\Users\\VitalyBilevich\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\VitalyBilevich\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Data\\FitnessSolution.Data.csproj": {
+                "projectPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Data\\FitnessSolution.Data.csproj"
+              },
+              "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\FitnessSolution.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\VitalyBilevich\\source\\repos\\FitnessSolution\\FitnessSolution.Infrastructure\\FitnessSolution.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
